@@ -2,7 +2,7 @@
 
 **E-mail:** neonetipong@gmail.com <br/> **Website:** https://neonetipong.wixsite.com/portfolio <br/> **Playground:** https://www.facebook.com/marknteer <br/>
 
-## Work Experience 👨🏻‍💻
+## Work Experience
 
 * **Public Health Center 49 (07/2018 - 02/2020)**
 
@@ -24,7 +24,7 @@
     * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
     * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
     
-## Education 👨‍🎓
+## Education
 
 * **Wanich Business Administration Technological College (2014 - 2016)**
 
@@ -35,7 +35,7 @@
 
 * **Watmaipadungket School (2009-2013)**
 
-## Skills 👾
+## Skills
 
 * **User experience** - A/B Testing, Mockup, Userflow
 * **Web development** - HTML, CSS, Twitter Bootstrap, PHP(beginner), Wordpress
