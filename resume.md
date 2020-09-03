@@ -4,7 +4,7 @@
 
 ## Skills 👾
 
-* **User experience** - A/B Testing
+* **User experience** - A/B Testing, Mockup, Userflow
 * **Web development** - HTML, CSS, Twitter Bootstrap, PHP(beginner), Wordpress
 * **Mobile development** - Android Studio
 * **Database** - MySQL
@@ -18,11 +18,11 @@
 * Hiphop
 * Japan Culture
 * games
-* Alcohol and Caffeine ☕️🍺
+* Alcohol and Caffeine
 * Hobby : Coding, Drawing and Gaming
 
 ## Personal Details
 
-* 20/01/1996
+* Birth 20/01/1996
 * Buddhism and Thai nationality
 * Bang Kruai, Nonthaburi
