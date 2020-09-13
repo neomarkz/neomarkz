@@ -26,14 +26,16 @@
     
 ## Education
 
-* **Wanich Business Administration Technological College (2014 - 2016)**
+* **Wanich Business Administration Technological College (2011 - 2016)**
 
-    *หลักสูตร ปวส. สาขาบริหารธุรกิจ (คอมพิวเตอร์ธุรกิจ)*
+    *หลักสูตร ปวช. และ ปวส. สาขาบริหารธุรกิจ (คอมพิวเตอร์ธุรกิจ)*
     * GPA 3.22
     * ได้เหรียญทองจากการแข่งขันทักษะวิชาชีพครั้งที่ 29 ที่วิทยาลัยอีเทค
     * ทำโปรเจคพัฒนาแอพพลิเคชั่นระบบ Android เกี่ยวกับการดูแลเด็กเล็ก
 
-* **Watmaipadungket School (2009-2013)**
+* **Watmaipadungket School (2008-2011)**
+
+    *ระดับชั้น ม.1 - ม.3* 
 
 ## Skills
 
