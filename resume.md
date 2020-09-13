@@ -52,7 +52,7 @@
 * Art
 * Hiphop
 * Japan Culture
-* games
+* Games
 * Alcohol and Caffeine
 * Hobby : Coding, Drawing and Gaming
 
