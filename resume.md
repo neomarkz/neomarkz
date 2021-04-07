@@ -4,6 +4,16 @@
 
 ## Work Experience
 
+* **Pulse Science Co., Ltd. (06/2012 - Present)**
+
+    *Content & Web Designer*
+    * พัฒนาและออกแบบเว็บไซต์ต่างๆ ของบริษัท
+    * ถ่ายภาพและวิดีโอโปรดักส์ต่างๆ
+    * ตัดต่อวิดีโอ
+    * ออกแบบ Artwork เช่น โบรชัวร์, แคตตาล็อก, สติ๊กเกอร์ ฯลฯ
+    * ออกแบบ Graphic Design สำหรับลง Social Media
+    * ออกแบบสื่อโฆษณา
+
 * **Public Health Center 49 (07/2018 - 02/2020)**
 
     *IT Support/Graphic Designer*
