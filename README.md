@@ -1,4 +1,5 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is <ins>Netipong Choosri</ins></h1>
+
 ### I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
 <img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
@@ -19,12 +20,7 @@
   - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
-<div style=".table{width:100%;}>
-    <style>
-    table {
-        width: 100%;
-    }
-</style>
+<div>
 | 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
 |:----------:|:-------------:|:------:|
 | User experience | Graphic Design | HTML5 |
