@@ -14,14 +14,14 @@
   * Hiphop
   * Japan Culture
   * Games
-    * Alcohol and Caffeine
-    * Hobby : Coding, Drawing and Gaming
+  * Alcohol and Caffeine
+  * Hobby : Coding, Drawing and Gaming
 
 ## 💼 Work Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
 
-    *Content & Web Designer*
+  * *Content & Web Designer*
     * พัฒนาและออกแบบเว็บไซต์ต่างๆ ของบริษัท
     * ถ่ายภาพและวิดีโอโปรดักส์ต่างๆ
     * ตัดต่อวิดีโอ
@@ -31,7 +31,7 @@
 
 * **Public Health Center 49 (07/2018 - 02/2020)**
 
-    *IT Support/Graphic Designer*
+  * *IT Support/Graphic Designer*
     * ดูแลและอัพเดตข่าวสารใน เว็บไซต์, facebook, line
     * ดูแลคอมพิวเตอร์ ทั้ง hardware และ software
     * ดูแลระบบ network
@@ -41,7 +41,7 @@
 
 * **2NYX Technology Co., Ltd. (06/2016 - 04/2018)**
 
-    *Webmaster*
+  * *Webmaster*
     * พัฒนาเว็บไซต์ด้วย Wordpress
     * ดูแลเว็บไซต์ทั้งหมดภายในองค์กร
     * ดูแล Social Media ทั้งหมดภายในองค์กร
