@@ -1,8 +1,22 @@
 # Netipong Choosri
 
+## About Me
+
+* Birth 20/01/1996
+* Buddhism and Thai nationality
+* Nonthaburi, Thailand
+
 ✉️ **E-mail:** neonetipong@gmail.com <br/> 🌐 **Website:** https://neonetipong.wixsite.com/portfolio <br/> 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
 
-## Work Experience
+Be into
+* Art
+* Hiphop
+* Japan Culture
+* Games
+* Alcohol and Caffeine
+* Hobby : Coding, Drawing and Gaming
+
+##💼 Work Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
 
@@ -34,7 +48,7 @@
     * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
     * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
     
-## Education
+##🎓 Education
 
 * **Wanich Business Administration Technological College (2011 - 2016)**
 
@@ -59,15 +73,4 @@
 
 ## Interests
 
-* Art
-* Hiphop
-* Japan Culture
-* Games
-* Alcohol and Caffeine
-* Hobby : Coding, Drawing and Gaming
 
-## Personal Details
-
-* Birth 20/01/1996
-* Buddhism and Thai nationality
-* Bang Kruai, Nonthaburi
