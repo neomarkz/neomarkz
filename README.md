@@ -1,5 +1,6 @@
 ```# Netipong Choosri
-I'm not Programmer or Developer, But I'm Jedi. May the force be with you.```
+I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
+```
 
 ## 🙋‍♂️ About Me
 
@@ -48,7 +49,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.```
   * ดูแล Social Media ทั้งหมดภายในองค์กร
   * ออกแบบ Page ต่างๆ ในเว็บไซต์
   * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
-  * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์```
+  * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
+```
 
 ## 🎓 Education
 
@@ -70,7 +72,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.```
 * **Database** - MySQL
 * **Multimedia** - Photoshop, illustrator, Video editor, Motion Graphic(beginner)
 * **Optimization** - Google-Analytics, Google-Tag Manager, Google-PageSpeed
-* **SEO** - Onpage, Offpage```
+* **SEO** - Onpage, Offpage
+```
 
 ## 🖼️ Media Skills
 
@@ -88,7 +91,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.```
 * **CSS/SCSS**
 * **Javascript**
 * **PHP**
-* **Python**```
+* **Python**
+```
 
 ## ✨ Interests
 
