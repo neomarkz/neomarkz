@@ -1,11 +1,10 @@
-```# Netipong Choosri
+# Netipong Choosri
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
-```
 
 ## 🙋‍♂️ About Me
 
 👶 Birth 20/01/1996 <br />
-🛕 Buddhism and Thai nationality <br />
+:th: Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, Thailand <br />
 ✉️ **E-mail:** neonetipong@gmail.com <br />
 🌐 **Website:** https://marknteer.000webhostapp.com <br />
@@ -19,7 +18,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   - Alcohol and Caffeine
   - Hobby : Coding, Drawing and Gaming
 
-```## 💼 Experience
+## 💼 Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
 
@@ -50,7 +49,6 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   * ออกแบบ Page ต่างๆ ในเว็บไซต์
   * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
   * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
-```
 
 ## 🎓 Education
 
@@ -64,7 +62,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 * **Watmaipadungket School (2008-2011)**
   *ระดับชั้น ม.1 - ม.3*
 
-```## 🌐 Website Skills
+## 🌐 Website Skills
 
 * **User experience** - A/B Testing, Mockup, Userflow
 * **Web development** - HTML, CSS, Twitter Bootstrap, PHP(beginner), Wordpress
@@ -73,7 +71,6 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 * **Multimedia** - Photoshop, illustrator, Video editor, Motion Graphic(beginner)
 * **Optimization** - Google-Analytics, Google-Tag Manager, Google-PageSpeed
 * **SEO** - Onpage, Offpage
-```
 
 ## 🖼️ Media Skills
 
@@ -85,14 +82,13 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 * **Video Editing**
 * **Motion Graphic**
 
-```## 📃 Coding Skills
+## 📃 Coding Skills
 
 * **HTML5**
 * **CSS/SCSS**
 * **Javascript**
 * **PHP**
 * **Python**
-```
 
 ## ✨ Interests
 
