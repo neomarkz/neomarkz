@@ -1,10 +1,11 @@
 # Netipong Choosri
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
-## 🙋‍♂️ About Me
 <div>
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/86/e3/ef/86e3ef2fa76864edc307bcbe31cb4a4a.gif">
 </div>
+## 🙋‍♂️ About Me
+
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, [Thailand](https://www.google.com/maps/place/thailand) <br />
