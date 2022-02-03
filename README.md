@@ -1,11 +1,11 @@
 # Netipong Choosri
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
+## 🙋‍♂️ About Me
 <table>
 <tr>
 <th align="left">
 <img width="441" height="1">
-## 🙋‍♂️ About Me
 
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
@@ -14,6 +14,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 🌐 **Website:** https://marknteer.000webhostapp.com <br />
 🎌 **Playground:** https://www.facebook.com/marknteer <br />
 </th>
+</tr>
+<tr>
+<td>
 <th align="left">
 <img width="441" height="1">
 ### ***Be into***
@@ -24,10 +27,14 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   * Alcohol and Caffeine
   * Hobby : Coding, Drawing and Gaming
 </th>
+</td>
 </tr>
+</table>
+ 
+<table>
 <tr>
 <td>
-## 💼 Work Experience
+## 💼 Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
 
