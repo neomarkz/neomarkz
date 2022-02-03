@@ -1,7 +1,7 @@
 # Netipong Choosri
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
 </div>
 
 ## 🙋‍♂️ About Me
