@@ -26,9 +26,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 | 🌐 WEBSITE SKILLS | 🖼️ MEDIA SKILLS | 📃 CODING SKILLS |
 |:----------:|:-------------:|:------:|
-| User experience | Graphic Design | HTML5 |
+| UI/UX | Graphic Design | HTML5 |
 | Web development | Infographic   | CSS/SCSS |
-| Mobile development | Digital Art | Javascript |
+| Responsive | Digital Art | Javascript |
 | Database | Artwork | PHP |
 | Multimedia | Web design | Python |
 | Optimization | Video Editing |
