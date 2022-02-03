@@ -4,7 +4,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 ## 🙋‍♂️ About Me
 <table>
 <tr>
-<th>
+<th align="left">
+<img width="441" height="1">
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, Thailand <br />
@@ -14,7 +15,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 </th>
 </tr>
 <tr>
-<th>
+<th align="left">
+<img width="441" height="1">
 ### ***Be into***
   * Art
   * Hiphop
