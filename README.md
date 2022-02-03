@@ -2,8 +2,8 @@
 
 ## 🙋‍♂️ About Me
 
-👶 Birth 20/01/1996
-🇹🇭 Buddhism and Thai nationality
+👶 Birth 20/01/1996 <br/>
+&#x1F1F9;&#x1F1ED; Buddhism and Thai nationality <br/>
 🏠 Nonthaburi, Thailand
 
 ✉️ **E-mail:** neonetipong@gmail.com <br/> 🌐 **Website:** https://neonetipong.wixsite.com/portfolio <br/> 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
