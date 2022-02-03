@@ -12,6 +12,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 🎌 **Playground:** https://www.facebook.com/marknteer <br />
 </tr>
 <tr>
+<td>
 ### ***Be into***
   * Art
   * Hiphop
@@ -19,6 +20,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   * Games
   * Alcohol and Caffeine
   * Hobby : Coding, Drawing and Gaming
+</td>
 </tr>
 </table>
  
