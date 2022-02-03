@@ -11,11 +11,11 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 🎌 **Playground:** https://www.facebook.com/marknteer <br />
 
 ### ***Be into***
-  - Art
-  - Hiphop
+  - Art 🎨 
+  - Hiphop 🤸
   - Japan Culture
-  - Games
-  - Alcohol and Caffeine
+  - Games 👹
+  - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
 ## 💼 Experience
