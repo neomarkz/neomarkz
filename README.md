@@ -4,21 +4,16 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 ## 🙋‍♂️ About Me
 <table>
 <tr>
-<th align="left">
-<img width="441" height="1">
-
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, Thailand <br />
 ✉️ **E-mail:** neonetipong@gmail.com <br />
 🌐 **Website:** https://marknteer.000webhostapp.com <br />
 🎌 **Playground:** https://www.facebook.com/marknteer <br />
-</th>
 </tr>
 <tr>
 <td>
 <th align="left">
-<img width="441" height="1">
 ### ***Be into***
   * Art
   * Hiphop
