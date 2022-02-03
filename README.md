@@ -4,7 +4,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 ## 🙋‍♂️ About Me
 
 👶 Birth 20/01/1996 <br />
-:us: Buddhism and Thai nationality <br />
+🛕 Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, Thailand <br />
 ✉️ **E-mail:** neonetipong@gmail.com <br />
 🌐 **Website:** https://marknteer.000webhostapp.com <br />
