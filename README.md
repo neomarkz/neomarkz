@@ -2,9 +2,9 @@
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 <table>
-        <tr>
-            <th align="left">
-                <img width="441" height="1">
+<tr>
+<th align="left">
+<img width="441" height="1">
                 ## 🙋‍♂️ About Me
 
                         👶 Birth 20/01/1996 <br />
@@ -13,9 +13,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
                         ✉️ **E-mail:** neonetipong@gmail.com <br />
                         🌐 **Website:** https://marknteer.000webhostapp.com/ <br />
                         🎌 **Playground:** https://www.facebook.com/marknteer <br />
-            </th>
-            <th align="left">
-                <img width="441" height="1">
+</th>
+<th align="left">
+<img width="441" height="1">
                 ### ***Be into***
                 * Art
                 * Hiphop
@@ -23,10 +23,10 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
                 * Games
                 * Alcohol and Caffeine
                 * Hobby : Coding, Drawing and Gaming
-            </th>
-        </tr>
-        <tr>
-            <td>
+</th>
+</tr>
+<tr>
+<td>
                 ## 💼 Work Experience
 
                 * **Pulse Science Co., Ltd. (06/2012 - Present)**
@@ -58,8 +58,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
                 * ออกแบบ Page ต่างๆ ในเว็บไซต์
                 * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
                 * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
-            </td>
-            <td>
+</td>
+<td>
                 ## 🎓 Education
 
                 * **Wanich Business Administration Technological College (2011 - 2016)**
@@ -72,18 +72,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
                 * **Watmaipadungket School (2008-2011)**
 
                 *ระดับชั้น ม.1 - ม.3*
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                Column 1
-            </td>
-            <td align="center">
-                Column 2
-            </td>
-        </tr>
-
-    </table>
+</td>
+</tr>
+</table>
 
 ## 🌐 Website Skills
 
