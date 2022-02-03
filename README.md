@@ -4,13 +4,13 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
 <img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
 </div>
-
-👶 Birth 20/01/1996 <br />
-🛕 Buddhism and Thai nationality <br />
-🏚️ Nonthaburi, [Thailand](https://www.google.com/maps/place/thailand) <br />
-✉️ **E-mail:** neonetipong@gmail.com <br />
-🌐 **Website:** https://marknteer.000webhostapp.com <br />
-🎌 **Playground:** https://www.facebook.com/marknteer <br />
+<br>
+👶 Birth 20/01/1996 <br>
+🛕 Buddhism and Thai nationality <br>
+🏚️ Nonthaburi, [Thailand](https://www.google.com/maps/place/thailand) <br>
+✉️ **E-mail:** neonetipong@gmail.com <br>
+🌐 **Website:** https://marknteer.000webhostapp.com <br>
+🎌 **Playground:** https://www.facebook.com/marknteer
 
 ### ***Be into***
   - Art 🎨 
