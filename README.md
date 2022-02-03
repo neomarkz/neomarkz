@@ -1,6 +1,6 @@
 # Netipong Choosri
 
-✉️ **E-mail:** neonetipong@gmail.com <br/> 🌐 **Website:** https://neonetipong.wixsite.com/portfolio <br/> 🚩 **Playground:** https://www.facebook.com/marknteer <br/> 
+✉️ **E-mail:** neonetipong@gmail.com <br/> 🌐 **Website:** https://neonetipong.wixsite.com/portfolio <br/> 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
 
 ## Work Experience
 
