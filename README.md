@@ -21,33 +21,15 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
-## 🌐 Website Skills
-
-* **User experience** - A/B Testing, Mockup, Userflow
-* **Web development** - HTML, CSS, Twitter Bootstrap, PHP(beginner), Wordpress
-* **Mobile development** - Android Studio
-* **Database** - MySQL
-* **Multimedia** - Photoshop, illustrator, Video editor, Motion Graphic(beginner)
-* **Optimization** - Google-Analytics, Google-Tag Manager, Google-PageSpeed
-* **SEO** - Onpage, Offpage
-
-## 🖼️ Media Skills
-
-* **Graphic Design**
-* **Infographic**
-* **Digital Art**
-* **Artwork**
-* **Web design**
-* **Video Editing**
-* **Motion Graphic**
-
-## 📃 Coding Skills
-
-* **HTML5**
-* **CSS/SCSS**
-* **Javascript**
-* **PHP**
-* **Python**
+| 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
+|----------|:-------------:|------:|
+| User experience | Graphic Design | HTML5 |
+| Web development | Infographic   | CSS/SCSS |
+| Mobile development | Digital Art | Javascript |
+| Database | Artwork | PHP |
+| Multimedia | Web design | Python |
+| Optimization | Video Editing |
+| SEO | Motion Graphic |
 
 ## ✨ Interests
 
