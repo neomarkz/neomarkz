@@ -3,7 +3,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 <table>
         <tr>
-            <th>
+            <th align="left">
                 <img width="441" height="1">
                 ## 🙋‍♂️ About Me
 
@@ -14,7 +14,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
                         🌐 **Website:** https://marknteer.000webhostapp.com/ <br />
                         🎌 **Playground:** https://www.facebook.com/marknteer <br />
             </th>
-            <th>
+            <th align="left">
                 <img width="441" height="1">
                 ### ***Be into***
                 * Art
