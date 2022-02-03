@@ -1,16 +1,10 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # Netipong Choosri
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
 <img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
 </div>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
@@ -27,6 +21,12 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
+<div style=".table{width:100%;}>
+    <style>
+    table {
+        width: 100%;
+    }
+</style>
 | 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
 |:----------:|:-------------:|:------:|
 | User experience | Graphic Design | HTML5 |
@@ -36,6 +36,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 | Multimedia | Web design | Python |
 | Optimization | Video Editing |
 | SEO | Motion Graphic |
+</div>
 
 ## ✨ Interests
 
