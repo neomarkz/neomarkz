@@ -18,6 +18,10 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   * Alcohol and Caffeine
   * Hobby : Coding, Drawing and Gaming
 
+<table>
+<tr>
+<th align="left">
+<img width="441" height="1">
 ## 💼 Work Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
@@ -49,6 +53,10 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
     * ออกแบบ Page ต่างๆ ในเว็บไซต์
     * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
     * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
+
+</th>
+<th align="left">
+<img width="441" height="1">
     
 ## 🎓 Education
 
@@ -62,6 +70,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 * **Watmaipadungket School (2008-2011)**
 
     *ระดับชั้น ม.1 - ม.3* 
+</th>
+</tr>
+</table>
 
 ## 🌐 Website Skills
 
