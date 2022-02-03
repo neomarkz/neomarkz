@@ -10,12 +10,12 @@
 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
 
 * **Be into**
-* Art
-* Hiphop
-* Japan Culture
-* Games
-* Alcohol and Caffeine
-* Hobby : Coding, Drawing and Gaming
+    * Art
+    * Hiphop
+    * Japan Culture
+    * Games
+    * Alcohol and Caffeine
+    * Hobby : Coding, Drawing and Gaming
 
 ## 💼 Work Experience
 
