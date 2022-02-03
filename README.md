@@ -24,7 +24,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 ## 💻 My Skills
 
-| <div style="width:200px">🌐 Website Skills</div> | <div style="width:33%">🖼️ Media Skills</div> | <div style="width:33%">📃 Coding Skills</div> |
+| 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
 |:----------:|:-------------:|:------:|
 | User experience | Graphic Design | HTML5 |
 | Web development | Infographic   | CSS/SCSS |
