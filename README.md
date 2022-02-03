@@ -13,8 +13,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 ### ***Be into***
   - Art 🎨 
   - Hiphop 🤸
-  - Japan Culture
-  - Games 👹
+  - Japan Culture 👹
+  - Games 🎮
   - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
