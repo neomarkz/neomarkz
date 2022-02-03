@@ -22,6 +22,8 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   - Alcohol and Caffeine ☕️ 🍺
   - Hobby : Coding, Drawing and Gaming
 
+## 💻 My Skills
+
 | 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
 |:----------:|:-------------:|:------:|
 | User experience | Graphic Design | HTML5 |
