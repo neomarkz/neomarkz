@@ -74,8 +74,8 @@
 
 ## 🖼️ Media Skills
 * **Graphic Design**
-* **Infographic
-* **Digital art**
+* **Infographic**
+* **Digital Art**
 * **Artwork**
 * **Web design**
 * **Video Editing**
