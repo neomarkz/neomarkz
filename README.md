@@ -2,7 +2,7 @@
 
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
-<img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif"> <br>
+<img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
 </div>
 
 👶 Birth 20/01/1996 <br>
