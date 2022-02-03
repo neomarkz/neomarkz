@@ -9,11 +9,11 @@
 🌐 **Website:** https://neonetipong.wixsite.com/portfolio <br/> 
 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
 
-* **Be into**
-    * Art
-    * Hiphop
-    * Japan Culture
-    * Games
+* *Be into*
+  * Art
+  * Hiphop
+  * Japan Culture
+  * Games
     * Alcohol and Caffeine
     * Hobby : Coding, Drawing and Gaming
 
