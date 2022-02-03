@@ -2,33 +2,22 @@
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 ## 🙋‍♂️ About Me
-<table>
-<tr>
-<th align="left">
+
 👶 Birth 20/01/1996 <br />
 🛕 Buddhism and Thai nationality <br />
 🏚️ Nonthaburi, Thailand <br />
 ✉️ **E-mail:** neonetipong@gmail.com <br />
 🌐 **Website:** https://marknteer.000webhostapp.com <br />
 🎌 **Playground:** https://www.facebook.com/marknteer <br />
-</th>
-</tr>
-<tr>
-<th align="left">
+
 ### ***Be into***
-  * Art
-  * Hiphop
-  * Japan Culture
-  * Games
-  * Alcohol and Caffeine
-  * Hobby : Coding, Drawing and Gaming
-</th>
-</tr>
-</table>
- 
-<table>
-<tr>
-<td>
+  > Art
+  > Hiphop
+  > Japan Culture
+  > Games
+  > Alcohol and Caffeine
+  > Hobby : Coding, Drawing and Gaming
+
 ## 💼 Experience
 
 * **Pulse Science Co., Ltd. (06/2012 - Present)**
@@ -60,8 +49,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   * ออกแบบ Page ต่างๆ ในเว็บไซต์
   * พัฒนาระบบ Back-End เช่น SEO, Speed Optimize
   * ลงคอนเท้นต์ต่างๆ ในเว็บไซต์
-</td>
-<td>
+
 ## 🎓 Education
 
 * **Wanich Business Administration Technological College (2011 - 2016)**
@@ -73,9 +61,6 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 * **Watmaipadungket School (2008-2011)**
   *ระดับชั้น ม.1 - ม.3*
-</td>
-</tr>
-</table>
 
 ## 🌐 Website Skills
 
