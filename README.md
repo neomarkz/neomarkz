@@ -1,5 +1,5 @@
 # Netipong Choosri
-==I'm not Programmer or Developer, But I'm Jedi. May the force be with you.==
+I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 ## 🙋‍♂️ About Me
 
