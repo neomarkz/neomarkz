@@ -4,7 +4,7 @@
 
 👶 Birth 20/01/1996 <br/>
 🛕 Buddhism and Thai nationality <br/>
-🏠 Nonthaburi, Thailand <br/>
+🏚️ Nonthaburi, Thailand <br/>
 ✉️ **E-mail:** neonetipong@gmail.com <br/> 
 🌐 **Website:** https://marknteer.000webhostapp.com/ <br/> 
 🎌 **Playground:** https://www.facebook.com/marknteer <br/> 
@@ -71,6 +71,15 @@
 * **Multimedia** - Photoshop, illustrator, Video editor, Motion Graphic(beginner)
 * **Optimization** - Google-Analytics, Google-Tag Manager, Google-PageSpeed
 * **SEO** - Onpage, Offpage
+
+## 🖼️ Media Skills
+* **Graphic Design**
+* **Infographic
+* **Digital art**
+* **Artwork**
+* **Web design**
+* **Video Editing**
+* **Motion Graphic**
 
 ## ✨ Interests
 
