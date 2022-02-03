@@ -73,6 +73,7 @@
 * **SEO** - Onpage, Offpage
 
 ## 🖼️ Media Skills
+
 * **Graphic Design**
 * **Infographic**
 * **Digital Art**
@@ -81,6 +82,14 @@
 * **Video Editing**
 * **Motion Graphic**
 
+## 📃 Coding Skills
+
+* **HTML5**
+* **CSS/SCSS**
+* **Javascript**
+* **PHP**
+* **Python**
+
 ## ✨ Interests
 
-
+Website Framework / Web 3.0 / DAPP / Cloud Computing / Microservices / Painting / Illustration / Photography / Manga / Animation / 3D Art / 3D Printing / Visual Machine / IoT /  Automation / Crypto Currency / Blockchain / NFT / Android OS / Window OS / Cybersecurity / Steganography / Encoding&Decoding / AI / Reverse Engineering
