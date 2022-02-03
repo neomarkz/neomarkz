@@ -22,7 +22,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
   - Hobby : Coding, Drawing and Gaming
 
 | 🌐 Website Skills | 🖼️ Media Skills | 📃 Coding Skills |
-|----------|:-------------:|------:|
+|:----------:|:-------------:|:------:|
 | User experience | Graphic Design | HTML5 |
 | Web development | Infographic   | CSS/SCSS |
 | Mobile development | Digital Art | Javascript |
