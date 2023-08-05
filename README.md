@@ -29,10 +29,9 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 | UI/UX | Graphic Design | HTML5 |
 | Web development | Infographic   | CSS/SCSS |
 | Responsive | Digital Art | Javascript |
-| Database | Artwork | PHP |
-| Multimedia | Web design | Python |
-| Optimization | Video Editing |
-| SEO | Motion Graphic |
+| Optimization | Artwork | PHP |
+| SEO | Web design | Python |
+| Three.js | Video Editing |
 
 ## ✨ INTERESTS
 
