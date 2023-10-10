@@ -1,4 +1,4 @@
-<img src="tools.png">
+<img src="Tools.png">
 
 <h1>Hello, My name is <ins>Netipong Choosri</ins></h1>
 
