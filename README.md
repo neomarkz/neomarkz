@@ -1,6 +1,7 @@
-<img src="Tools.png">
+<img src="Tools.png"> <br>
+<br>
 
-<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, My name is <ins>Netipong Choosri</ins></h1>
+<h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is <ins>Netipong Choosri</ins></h1>
 
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
