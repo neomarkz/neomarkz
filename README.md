@@ -1,5 +1,4 @@
 <img src="Tools.png"> <br>
-<br>
 
 <h1>Hello , My name is <ins>Netipong Choosri</ins></h1>
 
@@ -8,7 +7,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <img hight="400" width="400" alt="GIF" align="right" src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif">
 </div>
 
-## 🙋‍♂️ ABOUT ME <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 🙋‍♂️ ABOUT ME
 
 👶 Birth 20/01/1996 <br>
 🛕 Buddhism and Thai nationality <br>
