@@ -9,7 +9,7 @@ I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 
 ## 🙋‍♂️ ABOUT ME
 
-👶 Birth 20/01/1996 <br>
+👶 Birth 20/01/1996 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
 🛕 Buddhism and Thai nationality <br>
 🏚️ Nonthaburi, [Thailand](https://www.google.com/maps/place/thailand) <br>
 ✉️ **E-mail:** neonetipong@gmail.com <br>
