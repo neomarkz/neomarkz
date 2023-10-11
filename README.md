@@ -1,4 +1,4 @@
-<img src="Tools(Custom).png" width="100"> <br>
+<img src="Tools(Custom).png" width="1200"> <br>
 
 <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="GIF">, My name is <ins>Netipong Choosri</ins></h1>
 
