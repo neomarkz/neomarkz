@@ -1,6 +1,9 @@
 <img src="Tools(Custom).png" width="1200"> <br>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="GIF">, My name is <ins>Netipong Choosri</ins></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="GIF">, My name is <ins style="background-image: linear-gradient(45deg ,#0054ff 20%,#528ff5 50%,#5292ff 40%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;">Netipong Choosri</ins></h1>
 
 I'm not Programmer or Developer, But I'm Jedi. May the force be with you.
 <div>
