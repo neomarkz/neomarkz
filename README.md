@@ -29,11 +29,10 @@
 | 🌐 WEBSITE SKILLS | 🖼️ MEDIA SKILLS | 📃 CODING SKILLS |
 |:----------:|:-------------:|:------:|
 | UI/UX | Graphic Design | HTML5 |
-| Web development | Infographic   | CSS/SCSS |
-| Responsive | Digital Art | Javascript |
-| Optimization | Artwork | PHP |
-| SEO | Web design | Python |
-| Three.js | Video Editing |
+| Web development | Infographic | CSS/SCSS |
+| Responsive | Artwork | Javascript |
+| Optimization | Web design | PHP |
+| SEO | Video Editing |
 
 ## ✨ INTERESTS
 
